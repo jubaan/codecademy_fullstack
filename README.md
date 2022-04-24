@@ -4,6 +4,7 @@
   - [Fullstack Web Development](#fullstack-web-development)
   - [Content](#content)
     - [HTML](#html)
+    - [CSS](#css)
 
 ## Fullstack Web Development
 
@@ -13,3 +14,6 @@ This is my personal repository for the Fullstack Web Development codecademy cour
   - [fashion_blog]()
   - [wine_festival_schedule]()
   - [newyork_city_blog]()
+
+### CSS
+  - [healthy_recipes]()
