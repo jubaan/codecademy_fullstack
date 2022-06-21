@@ -6,6 +6,7 @@
     - [HTML](#html)
     - [CSS](#css)
     - [Deploying Websites Locally](#deploying-websites-locally)
+    - [Improved Styling with css](#improved-styling-with-css)
 
 ## Fullstack Web Development
 
@@ -24,3 +25,8 @@ This is my personal repository for the Fullstack Web Development codecademy cour
 
 ### Deploying Websites Locally
   - [dasmotos_arts_and_crafts]()
+
+### Improved Styling with css
+  -[paint_store]()
+
+ 
