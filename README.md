@@ -27,6 +27,6 @@ This is my personal repository for the Fullstack Web Development codecademy cour
   - [dasmotos_arts_and_crafts]()
 
 ### Improved Styling with css
-  -[paint_store]()
-
+  - [paint_store]()
+  - [typography]()
  
